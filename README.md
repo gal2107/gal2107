@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @gal2107
 - 👀 I’m interested in learning to codes in multiple languages
 - 🌱 I’m currently learning java
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on AI
 - 📫 How to reach me gal2107@email.vccs.edu
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: I'm a returning student and changed my degree from dietetics to computer science
